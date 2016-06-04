@@ -1,0 +1,14 @@
+{
+    "name": "vsilva/design-patterns",
+    "description": "Design patterns implemented on php",
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vitor Silva",
+            "email": "vsilva@live.co.uk"
+        }
+    ]
+}
