@@ -22,7 +22,7 @@ class LetterStrategy implements NotificationInterface
      */
     public function send()
     {
-        echo 'Sending letter notification ...' , PHP_EOL;
+        // Sending letter notification ...
         return true;
     }
 }

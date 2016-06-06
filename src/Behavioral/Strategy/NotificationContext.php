@@ -24,7 +24,6 @@ class NotificationContext
 
     /**
      * NotificationContext constructor.
-     *
      * @param NotificationInterface $strategy
      */
     public function __construct(NotificationInterface $strategy)

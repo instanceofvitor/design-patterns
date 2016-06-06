@@ -22,7 +22,7 @@ class SmtpStrategy implements NotificationInterface
      */
     public function send()
     {
-        echo 'Sending email notification ...' , PHP_EOL;
+        // Sending email notification ...
         return true;
     }
 }

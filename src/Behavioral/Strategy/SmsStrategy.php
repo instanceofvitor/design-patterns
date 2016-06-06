@@ -22,7 +22,7 @@ class SmsStrategy implements NotificationInterface
      */
     public function send()
     {
-        echo 'Sending sms notification ...' , PHP_EOL;
+        // Sending sms notification ...
         return true;
     }
 }

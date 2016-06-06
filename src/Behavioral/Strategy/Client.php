@@ -19,7 +19,6 @@ class Client
 {
     /**
      * run
-     *
      * @return void
      */
     public function run()

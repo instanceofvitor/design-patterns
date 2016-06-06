@@ -19,7 +19,6 @@ interface NotificationInterface
 {
     /**
      * send
-     *
      * @return bool
      */
     public function send();
